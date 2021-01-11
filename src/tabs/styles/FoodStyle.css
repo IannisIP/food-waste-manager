@@ -1,0 +1,9 @@
+.fl-container {
+	display: flex;
+	flex-direction: column;
+}
+
+.lists-container {
+	display: flex;
+	justify-content: space-evenly;
+}
