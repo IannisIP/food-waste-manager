@@ -1,0 +1,16 @@
+.ff-container {
+	display: flex;
+}
+
+.buttons-container {
+	display: flex;
+}
+
+.buttons-container > .btn {
+	margin: 5px;
+	height: 50px;
+}
+
+.ff-field-container {
+	margin: 5px;
+}
